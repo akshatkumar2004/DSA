@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Akshaykumarshakya/DSA/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akshaykumarshakya/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## String
 |  |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Akshaykumarshakya/DSA/tree/master/0010-regular-expression-matching) |
+## Array
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Akshaykumarshakya/DSA/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Akshaykumarshakya/DSA/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
