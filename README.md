@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Akshaykumarshakya/DSA/tree/master/0010-regular-expression-matching) |
+| [1140-stone-game-ii](https://github.com/Akshaykumarshakya/DSA/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akshaykumarshakya/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Akshaykumarshakya/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akshaykumarshakya/DSA/tree/master/0018-4sum) |
+| [1140-stone-game-ii](https://github.com/Akshaykumarshakya/DSA/tree/master/1140-stone-game-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -51,4 +53,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akshaykumarshakya/DSA/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Akshaykumarshakya/DSA/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Akshaykumarshakya/DSA/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Akshaykumarshakya/DSA/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Akshaykumarshakya/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Akshaykumarshakya/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
